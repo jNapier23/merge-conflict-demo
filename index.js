@@ -1,8 +1,17 @@
 favFood = [
+
+    "Food",
+    "Food",
+    "MoreFood",
     "yaki udon",
     "baked beans on toast",
     "cheese cake",
-    "Veg Puff"
+    "Veg Puff",
+    "Ramen",
+    "pepperoni pizza",
+    "fries",
+    "pasta",
+    "margherita pizza"
 ]
 
 favDrink = [
@@ -24,4 +33,8 @@ favFood.forEach((food) => {
     newFood.innerText = food;
     parent.appendChild(newFood);
 })
+
+setTimeout(function(){
+    window.location.reload(1);
+ }, 5000);
 
