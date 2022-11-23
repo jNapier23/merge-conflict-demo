@@ -3,7 +3,7 @@
 ## Steps:
 
 1) Fork this repo
-2) Make a new branch with your name 
-3) Modify the favFood adding your favourite favFood
-4) Push your changes up to the repo 
-5) Make a merge request to main
+2) Modify the favFood adding your favourite favFood
+3) Push your changes up to the repo 
+4) Make a merge request to main
+5) Fix the merge conflict if any..
