@@ -7,6 +7,7 @@ favFood = [
     "baked beans on toast",
     "cheese cake",
     "banana and rice"
+    "Veg Puff",
     "Ramen",
     "pepperoni pizza",
     "fries",
