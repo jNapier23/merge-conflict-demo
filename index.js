@@ -13,6 +13,18 @@ favFood = [
     "margherita pizza"
 ]
 
+favDrink = [
+    "PORN STAR MARTINI",
+    "ESPRESSO MARTINI",
+    "FRENCH 75",
+    "SALTED CARAMEL OLD FASHIONED",
+    "LONG ISLAND ICED TEA",
+    "MOJITO",
+    "Bacardi Carta Blanca rum",
+    "AMARETTO SOUR",
+]
+
+
 let parent = document.querySelector("#foodList")
 
 favFood.forEach((food) => {
