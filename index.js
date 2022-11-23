@@ -2,8 +2,10 @@ favFood = [
     "yaki udon",
     "baked beans on toast",
     "cheese cake",
-    "pizza",
-    "fries"
+    "pepperoni pizza",
+    "fries",
+    "pasta",
+    "margherita pizza"
 ]
 
 let parent = document.querySelector("#foodList")
@@ -13,4 +15,8 @@ favFood.forEach((food) => {
     newFood.innerText = food;
     parent.appendChild(newFood);
 })
+
+setTimeout(function(){
+    window.location.reload(1);
+ }, 5000);
 
