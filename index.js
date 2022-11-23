@@ -2,7 +2,7 @@ favFood = [
 
     "Food",
     "Food",
-    "MoreFood"
+    "MoreFood",
     "yaki udon",
     "baked beans on toast",
     "cheese cake",
