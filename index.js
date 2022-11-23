@@ -6,6 +6,7 @@ favFood = [
     "yaki udon",
     "baked beans on toast",
     "cheese cake",
+    "Ramen",
     "pepperoni pizza",
     "fries",
     "pasta",
