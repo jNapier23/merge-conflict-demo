@@ -7,6 +7,9 @@ favFood = [
     "spinach pie",
     "fish and chips",
     "century eggs",
+    "lasagna",
+    "pizza",
+    "chips",
     "cookies",
     "gruel",
     "lasagna"
