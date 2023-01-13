@@ -2,7 +2,9 @@ favFood = [
     "yaki udon",
     "baked beans on toast",
     "cheese cake",
-    "lasagna"
+    "lasagna",
+    "pizza",
+    "chips"
 ]
 
 let parent = document.querySelector("#foodList")
