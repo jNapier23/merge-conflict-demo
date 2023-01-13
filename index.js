@@ -2,6 +2,7 @@ favFood = [
     "yaki udon",
     "baked beans on toast",
     "cheese cake",
+    "lasagna"
 ]
 
 let parent = document.querySelector("#foodList")
@@ -14,5 +15,5 @@ favFood.forEach((food) => {
 
 setTimeout(function(){
     window.location.reload(1);
- }, 5000);
+ }, 4000);
 
