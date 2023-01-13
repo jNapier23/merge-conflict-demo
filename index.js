@@ -4,6 +4,9 @@ favFood = [
     "cheese cake",
     "fried chicken",
     "chorizo",
+    "lasagna",
+    "pizza",
+    "chips",
     "cookies",
     "gruel",
     "lasagna"
